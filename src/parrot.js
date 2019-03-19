@@ -54,7 +54,6 @@ class Norwegian_Blue extends Parrot{
 }
 
 class European extends Parrot{
-
     getSpeed() {
         return this.baseSpeed;
     }
